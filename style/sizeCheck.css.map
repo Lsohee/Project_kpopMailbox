@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAA;EACR,KAAK,EAAC,WAAW;EACjB,MAAM,EAAC,WAAW;EAClB,MAAM,EAAC,eAAe;CAIvB;;AAPD,AAIE,UAJQ,GAIN,KAAK,CAAA;EACL,KAAK,EAAC,IAAI;CACX",
+    "sources": [
+        "sizeCheck.scss"
+    ],
+    "names": [],
+    "file": "sizeCheck.css"
+}

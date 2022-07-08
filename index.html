@@ -1,15 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
+  <link rel="stylesheet" href="./style/sizeCheck.css">
 </head>
+
 <body>
-  <h1>
-    hello!
-  </h1>
+  <h1>kpop 우체통</h1>
+  <h2>To.</h2>
+  <div class="sizsCheck">
+    <input type="radio" name="idle" id="miyeon">미연<br>
+    <input type="radio" name="idle" id="minnie">민니 <br>
+    <input type="radio" name="idle" id="soyeon">소연 <br>
+    <input type="radio" name="idle" id="yuqi">우기 <br>
+    <input type="radio" name="idle" id="shuhua">슈화 
+  </div>
+  <br> 
+  <div class="sizsCheck">
+    닉네임
+    <input type="text" name="writerId" id="">
+  </div>
+  <br>
+  <div class="sizsCheck">
+    쓴 날짜
+    <input type="date" name="writtenDate" id="">
+  </div>
+  <br>
+  <div class="sizsCheck">
+    내용
+    <input type="text" name="writingText" id="writingText">
+  </div>
+  <br>
+  <input type="submit" name="submitBtn" id="">
   <script src="./main.js"></script>
 </body>
+
 </html>
