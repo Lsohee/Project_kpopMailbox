@@ -1,9 +1,1 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,UAAU,CAAA;EACR,KAAK,EAAC,WAAW;EACjB,MAAM,EAAC,WAAW;EAClB,MAAM,EAAC,eAAe;CAIvB;;AAPD,AAIE,UAJQ,GAIN,KAAK,CAAA;EACL,KAAK,EAAC,IAAI;CACX",
-    "sources": [
-        "sizeCheck.scss"
-    ],
-    "names": [],
-    "file": "sizeCheck.css"
-}
+{"version":3,"sources":["sizeCheck.scss","sizeCheck.css"],"names":[],"mappings":"AAAA;EACE,0BAAA;EAAA,uBAAA;EAAA,kBAAA;EACA,2BAAA;EAAA,wBAAA;EAAA,mBAAA;EACA,uBAAA;ACCF;ADAE;EACE,WAAA;ACEJ;;ADEA;EACE,YAAA;EACA,YAAA;ACCF","file":"sizeCheck.css"}

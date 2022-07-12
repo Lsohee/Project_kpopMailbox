@@ -7,8 +7,11 @@
   height: fit-content;
   border: 1px solid black;
 }
-
 .sizeCheck > input {
   color: #333;
 }
-/*# sourceMappingURL=sizeCheck.css.map */
+
+#writingText {
+  width: 400px;
+  height: 60px;
+}/*# sourceMappingURL=sizeCheck.css.map */
