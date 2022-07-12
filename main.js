@@ -16,8 +16,8 @@ submitBtn.addEventListener("click",()=>{
 pseudo 필요한 정보의 값을 받아드리는 input 태그의 종류
 --> id : text
 --> writtenDate : date
---> writingText : textarea
 
-
+pseudo textarea 는 독립된 태그다
+: writingText : textarea
 */ 
 
