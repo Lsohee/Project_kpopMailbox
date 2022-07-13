@@ -57,6 +57,11 @@ connection.query(testQuery,function(err, results,fields){
 
  connection.query(testQuery,function(err, results,fields){
   // 재할당한 testquery를 전송하기 위해서 다시 씀
+  if(err){
+    console.log(err)
+  }
+  console.log(results)
 })
+
 
 connection.end();// DB 접속 종료
